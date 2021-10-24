@@ -1,0 +1,4 @@
+hi this is first
+program for Git
+
+second change in git file
